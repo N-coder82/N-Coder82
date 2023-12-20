@@ -7,4 +7,4 @@
 - ⚡ Fun fact: The C# compiler was first written in C and C++, but was then updated to be compiled in C#, the very langauge it compiles! ✨
 - 😍 Current Obession: https://www.adafruit.com/product/5345
 
-✨ This is called: [Bootstrapping (https://en.wikipedia.org/wiki/Bootstrapping_(compilers))
+✨ This is called: [Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping_(compilers))
