@@ -6,5 +6,3 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Swift was developed for 4 years in secrecy, nobody knew about it outside of Apple, which is impressive.
 - 😍 Current Obession: [Flipper Zero](https://flipperzero.one)
-
-✨ This is called: [Bootstrapping](https://en.wikipedia.org/wiki/Bootstrapping_(compilers))
