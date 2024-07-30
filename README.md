@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 - 🔭 I’m currently working on: making simple, useful shell scripts such as [diskspeed](https://github.com/n-coder82/diskspeed), and [ghuser](https://github.com/n-coder82/ghuser) in Bash.
-- 🌱 I’m currently learning: Bash, zsh, and how to distribute CLI apps.
+- 🌱 I’m currently learning: Bash, C/C++ (haven't decided which), and how to distribute CLI apps.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Python has its own zen philosophy![^1]
 - 😍 Current Obession: [Flipper Zero](https://flipperzero.one)
